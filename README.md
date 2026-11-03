@@ -2,6 +2,12 @@
 
 # ⛓️ Langflow
 
+## About
+- **What it is:** Fork of langflow-ai/langflow (a UI for LangChain); no changes by Mark.
+- **Business:** learning
+- **Status:** inactive since 2023-09
+- **Source:** agent research 2026-11-03, checked by Mark
+
 ~ An effortless way to experiment and prototype [LangChain](https://github.com/hwchase17/langchain) pipelines ~
 
 <p>
